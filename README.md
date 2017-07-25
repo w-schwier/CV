@@ -1,6 +1,6 @@
 ## William Schwier
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies-&-interests)
 
 I am an energetic and ambitious back end Junior Developer; looking for a role where I can consolidate and push my programming knowledge to it's limits, while also gaining exposure to new and exciting aspects of the programming field.
 

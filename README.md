@@ -31,14 +31,14 @@ Through my involvement with mulitple musical productions I have learnt to manage
 
 #### Makers Academy (February 2017 to June 2017)
 
-- A hunger and passion for slick and efficient code
+- A hunger and passion for well built and tested code
 - Independent learner and problem-solver
 - Pair programing and team work
 - Object Oritentated Programing
 - Test Driven Development
+- Agile and XP methodology
 - Software Craftsmanship
-- Ruby
-- Rspec
+- Ruby, Ruby on Rails, Javescript, Rspec, Jasmine, Node
 
 #### University of Leicester (October 2012 to June 2015)
 
@@ -55,7 +55,7 @@ Through my involvement with mulitple musical productions I have learnt to manage
 - Helped lead the winning team in an inter-house music cup over two consecutive years
 - Performed in two school plays and helped backstage for other productions
 - Performed in a play at the Edinburgh Fringe festival
-- Managed and performed in a school talent competition, winning two of three nights
+- Managed and performed in a school music competition, winning two of three nights
 - Performed in multiple other events
 
 
@@ -64,8 +64,12 @@ Through my involvement with mulitple musical productions I have learnt to manage
 **The White Hart Inn** (June 2016 to March 2017)   
 *Bartender and Maître D'*
 
+Gained confidence from dealing with a wide assortment of people on a consistant basis.
+
 **Schwier Farms Ltd** (June 2015 to November 2016)    
 *Farmer*
+
+Improved my problem solving abilities by regularly encountering and overcoming obscure problems that required innovative and unconventional solutions. 
 
 **Brewin Dolphin** (August 2015 to August 2015)   
 *Work experience*  

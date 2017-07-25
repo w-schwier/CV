@@ -67,7 +67,7 @@ Through my involvement with mulitple musical productions I have learnt to manage
 Gained confidence from dealing with a wide assortment of people on a consistant basis.
 
 **Schwier Farms Ltd** (June 2015 to November 2016)    
-*Farmer*
+*Farmer and Head of IT*
 
 Improved my problem solving abilities by regularly encountering and overcoming obscure problems that required innovative and unconventional solutions. 
 

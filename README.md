@@ -6,6 +6,14 @@ I am an energetic and ambitious full stack Junior Developer; looking for a role 
 
 After graduating from Leicester University with a degree in law, I went travelling for three months around Australia and South East Asia. Upon my return I started working on the family farm. Having enjoyed working on the farm, I still realised it wasn't what I wanted to do for the rest of my life. I started teaching myself coding on a raspberry pi and fell in love. Since then I have just finished a full-time course at Makers Academy; A 16 week, highly selective and intense software development bootcamp. I am now looking for full time employment in a job that excites me supports my continued learning.
 
+## Projects
+
+Project | Description | Technologies Used
+--- | --- | ---
+| [Loops and Cats](https://github.com/whatsrupp/loops-and-cats) | DEscription Checkout the Live version [here](https://loops-and-cats.herokuapp.com/) | Technologies |
+| [Invading Invaders](https://github.com/gekographe/invading_invaders) | DEscription | Technologies |
+| [Makers B'n'B](https://github.com/w-schwier/makersbnb) | DEscription | Technologies |
+| [Webdrobe](https://github.com/w-schwier/webdrobe) | DEscription | Technologies |
 
 ## Skills
 
@@ -69,7 +77,7 @@ Gained confidence from dealing with a wide assortment of people on a consistant 
 **Schwier Farms Ltd** (June 2015 to November 2016)    
 *Farmer and Head of IT*
 
-Improved my problem solving abilities by regularly encountering and overcoming obscure problems that required innovative and unconventional solutions. 
+Improved my problem solving abilities by regularly encountering and overcoming obscure problems that required innovative and unconventional solutions.
 
 **Brewin Dolphin** (August 2015 to August 2015)   
 *Work experience*  

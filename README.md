@@ -42,7 +42,7 @@ Project | Description | Technologies Used
 - A hunger and passion for well built and tested code
 - Independent learner and problem-solver
 - Pair programming and team work
-- Object Orientated Programming
+- Object-Oriented Programming
 - Test Driven Development
 - Agile and XP methodology
 - Software Craftsmanship

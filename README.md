@@ -46,7 +46,7 @@ Project | Description | Technologies Used
 - Test Driven Development
 - Agile and XP methodology
 - Software Craftsmanship
-- Ruby, Ruby on Rails, Javescript, Rspec, Jasmine, Node
+- Ruby, Ruby on Rails, Javascript, Rspec, Jasmine, Node
 
 #### University of Leicester (October 2012 to June 2015)
 

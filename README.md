@@ -18,22 +18,21 @@ Project | Description | Technologies Used
 
 ## Skills
 
-#### Leadership
-Through my involvement with multiple musical productions I have learnt to manage mine and others time effectively.
+- **Leadership** - Through my involvement with multiple musical productions I have learnt to manage mine and others time effectively, whilst keeping everyone focused and on track.
 
-#### Teamwork
+- **Teamwork** - During makers I have worked on a few group projects where we applied XP values, following practices such as stand ups and retros.
 
+- **Communication** - Working at a pub has helped hone my communication and social skills due to the extended interaction with a wide assortment of people and characters. This has also been helped by my time at university and makers where group discussions and work were commonplace, requiring a professional and rational approach to dealing with conflict.
 
-#### Analytical Skills
+- **Analytical Skills** - Studying law at university really helped to improve my analytical skills. This has allowed me to look at complex problems and break it down into simpler, manageable chucks.
 
+- **Quick Learner** - Makers is only three months long, this meant a lot of information that had to be absorbed quickly. Not only absorbed, but understood and applied.
 
-#### Fast Learner
+- **Inquisitive** - I could never be told something is the way it is, just because it is; I always had to know why. It's this inquisitiveness that pushes me to learn more and push the limits of my knowledge.
 
+- **Logical and Problem Solver** - I have always enjoyed logic puzzles such as crosswords, sudoku or code-wars katas. This is one of the reasons I fell in love with coding, as I see each coding challenge as a puzzle to solve in the best possible way. Working on the farm presented complex and obscure problems that required inventive and innovative solutions.
 
-#### Inquisitive
-
-
-#### Creative
+- **Creative** - I have enjoyed playing instruments most of my life. I love getting involved with anything musical, be it playing in a band or helping a friend produce his compositions. This improved creativity is something I have been able to apply to problem solving.
 
 
 ## Education

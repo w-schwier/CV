@@ -10,7 +10,7 @@ After graduating from Leicester University with a degree in law, I went travelli
 
 Project | Description | Technologies Used
 --- | --- | ---
-| [Webdrobe](https://github.com/w-schwier/webdrobe) | A side project I have very recently started - An online wardrobe so users can keep track of items of clothing's across multiple locations, plan outfits and compare clothes at home while shopping | Ruby on Rails, HTML, CSS, Postgres w/ ActiveRecord, Capybara and Rspec |
+| [Webdrobe](https://github.com/w-schwier/webdrobe) | A side project I have very recently started - An online wardrobe so users can keep track of items of clothing across multiple locations, plan outfits and compare clothes at home while shopping | Ruby on Rails, HTML, CSS, Postgres w/ ActiveRecord, Capybara and Rspec |
 | [Loops and Cats](https://github.com/whatsrupp/loops-and-cats) | Our final project at makers - A website where users can record loops and build them up. This allows users to create soundscapes or beat boxing tracks. Checkout the Live version [here](https://loops-and-cats.herokuapp.com/) | Javascript, Web-audio API, Wavesurfer, Node, CSS, Mocha, Zombie  |
 | [Invading Invaders](https://github.com/gekographe/invading_invaders) | Our practice project at makers - We managed to edit hexadecimal code to change a graphic in the game space invaders. We then created documentation explaining clearly how people can replicate our hack, or even create their own. | DosBox, 2600 gfx, Distella, Dasm  |
 | [Makers B'n'B](https://github.com/w-schwier/makersbnb) | A group project during makers - A clone of Air B'n'B. Users can add spaces, request to stay at a property and manage their own properties.  | Ruby, Sinatra, Postgres with DataMapper, Bootstrap, CSS, Rspec, Capybara  |

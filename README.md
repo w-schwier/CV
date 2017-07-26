@@ -4,7 +4,7 @@
 
 I am an energetic and ambitious full stack Junior Developer; looking for a role where I can consolidate and push my programming knowledge to it's limits, while also gaining exposure to new and exciting aspects of the programming field.
 
-After graduating from Leicester University with a degree in law, I went travelling for three months around Australia and South East Asia. Upon my return I started working on the family farm. Having enjoyed working on the farm, I still realised it wasn't what I wanted to do for the rest of my life. I started teaching myself coding on a raspberry pi and fell in love. Since then I have just finished a full-time course at Makers Academy; A 16 week, highly selective and intense software development bootcamp. I am now looking for full time employment in a job that excites me supports my continued learning.
+After graduating from Leicester University with a degree in law, I went travelling for three months around Australia and South East Asia. Upon my return I started working on the family farm. Having enjoyed working on the farm, I realised it wasn't what I wanted to do for the rest of my life. I started teaching myself coding on a raspberry pi and fell in love. Since then I have just finished a full-time course at Makers Academy; A 16 week, highly selective and intense software development bootcamp. I am now looking for full time employment in a job that excites me supports my continued learning.
 
 ## Projects
 

@@ -72,12 +72,8 @@ Project | Description | Technologies Used
 **The White Hart Inn** (June 2016 to March 2017)   
 *Bartender and Maître D'*
 
-Gained confidence from dealing with a wide assortment of people on a consistent basis.
-
 **Schwier Farms Ltd** (June 2015 to November 2016)    
 *Farmer and Head of IT*
-
-Improved my problem solving abilities by regularly encountering and overcoming obscure problems that required innovative and unconventional solutions.
 
 **Brewin Dolphin** (August 2015 to August 2015)   
 *Work experience*  

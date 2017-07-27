@@ -18,7 +18,7 @@ Project | Description | Technologies Used
 
 ## Skills
 
-- **Leadership** - Through my involvement with multiple musical productions I have had to manage mine and others time effectively, whilst keeping everyone focused and on track.
+- **Leadership** - Through my involvement with multiple musical productions I have had to manage mine and other's time effectively, whilst keeping everyone focused and on track.
 
 - **Teamwork** - During makers I have worked on a few group projects where we applied XP values, following practices such as stand ups and retros.
 

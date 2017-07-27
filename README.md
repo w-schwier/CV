@@ -52,7 +52,7 @@ Project | Description | Technologies Used
 
 - I studied Law, LLB,
 - Studied as optional modules: Intellectual Property, Competition, Company, and Medical Law
-- Led a team to produce an essay that received a first grade as part of the Contract law module
+- Led a team to produce an essay that received a first grade as part of the Contract Law module
 - Managed and played in the winning band of Battle of the Bands between Leicester and De Montford Universities
 - Performed in multiple other events during my time at Leicester
 

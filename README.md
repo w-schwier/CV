@@ -1,19 +1,28 @@
 ## William Schwier
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Professional Experience](#professional-experience) | [Skills](#skills) | [Education](#education) | [Other Experience](#other-experience) | [Hobbies and Interests](#hobbies-and-interests)
 
-I am an energetic and ambitious full stack Junior Developer; looking for a role where I can consolidate and push my programming knowledge to its limits, while also gaining exposure to new and exciting aspects of the programming field.
+I am a considered and ambitious backend software engineer; looking for a role where I can consolidate and push my programming knowledge to its limits, while also gaining exposure to new and exciting aspects of the programming field.
 
-After graduating from Leicester University with a degree in law, I went travelling for three months around Australia and South East Asia. Upon my return I started working on the family farm. Having enjoyed working on the farm, I realised it wasn't what I wanted to do for the rest of my life. I started teaching myself coding on a raspberry pi and fell in love. Since then I have just finished a full-time course at Makers Academy; A 16 week, highly selective and intense software development bootcamp. I am now looking for full time employment in a job that excites me and supports my continued learning.
+After graduating from Leicester University with a degree in law, I went travelling for three months around Australia and South East Asia. Upon my return I started working on the family farm. Having enjoyed the work, I realised it wasn't what I wanted to do for the rest of my life. I started teaching myself coding on a raspberry pi and fell in love. Wanting to accelerate my learning, I applied to, and finished, a full-time course at Makers Academy; A 16 week, highly selective and intense software development bootcamp.
 
-## Projects
+I then joined Hummingbird Technologies. During my tenure, I have mainly worked with PHP, but more recently I have increasingly been working with python. While having spent most of my time on software development in the backend, I have also had to handle everything from tech support and QA, to DB and dev ops; my fingerprints can be found over most of the tech stack, so to speak. I have taken every opportunity to pair with the data scientists and even have a few frontend commits to my name.
 
-Project | Description | Technologies Used
---- | --- | ---
-| [Loops and Cats](https://github.com/whatsrupp/loops-and-cats) | Our final project at makers - A website where users can record loops and build them up. This allows users to create soundscapes or beat boxing tracks. Checkout the live version [here](https://loops-and-cats.herokuapp.com/). | Javascript, Web-audio API, Wavesurfer, Node, CSS, Mocha, Zombie  |
-| [Invading Invaders](https://github.com/gekographe/invading_invaders) | Our practice project at makers - We managed to edit hexadecimal code to change a graphic in the game space invaders. We then created documentation explaining clearly how people can replicate our hack, or even create their own. | DosBox, 2600 gfx, Distella, Dasm  |
-| [Makers B'n'B](https://github.com/w-schwier/makersbnb) | A group project during makers - A clone of Air B'n'B. Users can add spaces, request to stay at a property and manage their own properties.  | Ruby, Sinatra, Postgres with DataMapper, Bootstrap, CSS, Rspec, Capybara  |
-| [Webdrobe](https://github.com/w-schwier/webdrobe) | A side project I have very recently started - An online wardrobe so users can keep track of items of clothing across multiple locations, plan outfits and compare clothes to ones at home while shopping. | Ruby on Rails, HTML, CSS, Postgres w/ ActiveRecord, Capybara and Rspec |
+
+## Professional Experience
+
+#### Software Engineer
+**Hummingbird Technologies | Janurary 2018 - Present**
+- Worked with a variety of technologies including, but not limited to: php, python, sql, GCP, circleCI, docker and kubernetes.
+- Sus ag project
+- Dedicated and hard working
+- integrated multiple 3rd party apis
+- Applied best practices including TDD and OOP.
+- Agile
+- Rebuilt legacy code into micro services
+- played a key role in success of company behind the scenes
+- versitile and adaptable, had to handle anything that landed on my plate
+- helped define some of our processes - how bugs get reported, 
 
 
 ## Skills
@@ -63,11 +72,11 @@ Project | Description | Technologies Used
 - Helped lead the winning team in an inter-house music cup over two consecutive years
 - Performed in two school plays and helped backstage for other productions
 - Performed in a play at the Edinburgh Fringe festival
-- Managed and performed in a school music competition, winning two of three nights
+- Managed and performed in a school music competition
 - Performed in multiple other events
 
 
-## Experience
+## Other Experience
 
 **The White Hart Inn** (June 2016 to March 2017)   
 *Bartender and Maître D'*
@@ -81,12 +90,12 @@ Project | Description | Technologies Used
 
 ## Hobbies and Interests
 
-- Music: Playing, listening and producing; I can play piano, guitar, saxophone and drums; and even performed at a local festival!
-- Gaming: Playing and designing my own
+- Music: Playing, listening and producing; I can play a few instruments and even performed at a local festival!
+- Gaming: Playing, modding and designing my own
 - Outdoor activities: Multiple camping trips and walks, including from Carlisle to Edinburgh!
 - Cooking
 - Skiing
 - Clay Pigeon Shooting
 - Sailing
-- Acting
 - Tennis
+- Reading
